@@ -1,0 +1,11 @@
+2024-06-18T18:45:02.738Z - Error: Missing required fields, Status Code: 500
+2024-06-19T11:29:19.988Z - Error: Missing required fields, Status Code: 500
+2024-06-19T11:29:45.041Z - Error: Missing required fields, Status Code: 500
+2024-06-19T11:34:37.911Z - Error: Missing required fields, Status Code: 500
+2024-06-19T11:37:34.436Z - Error: Missing required fields, Status Code: 500
+2024-06-19T13:07:37.754Z - Error: Missing required fields, Status Code: 500
+2024-06-19T18:45:31.840Z - Error: Missing required fields, Status Code: 500
+2024-06-19T18:51:21.270Z - Error: Missing required fields, Status Code: 500
+2024-06-20T06:00:52.878Z - Error: ENOENT: no such file or directory, open 'C:\Users\Dell\Desktop\Slidely\slidely_backend\src\controllers\db.json', Status Code: 500
+2024-06-20T07:21:38.425Z - Error: Unexpected end of JSON input, Status Code: 500
+2024-06-20T07:22:19.389Z - Error: Unexpected end of JSON input, Status Code: 500
